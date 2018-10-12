@@ -1,0 +1,33 @@
+{
+    "name": "draftjs-tuto",
+    "version": "1.0.0",
+    "description": "Simple Intro to Draftjs ",
+    "main": "app.js ",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "watch": "webpack --watch"
+    },
+    "keywords": [
+        "Draftjs"
+    ],
+    "author": "Islem Penywis",
+    "license": "MIT ",
+    "devDependencies": {
+        "@babel/core": "^7.1.2",
+        "@babel/preset-env": "^7.1.0",
+        "@babel/preset-react": "^7.0.0",
+        "babel-loader": "^8.0.4",
+        "css-loader": "^1.0.0",
+        "extract-text-webpack-plugin": "^4.0.0-beta.0",
+        "node-sass": "^4.9.3",
+        "react": "^16.5.2",
+        "react-dom": "^16.5.2",
+        "sass-loader": "^7.1.0",
+        "style-loader": "^0.23.1",
+        "webpack": "^4.20.2",
+        "webpack-cli": "^3.1.2"
+    },
+    "dependencies": {
+        "draft-js": "^0.10.5"
+    }
+}
