@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import "./sass/style.scss";
 
-import Editor from "./components/editor";
+import Editor from "./editor";
 
-ReactDOM.render(
-  <Editor/>, document.getElementById("root"));
+ReactDOM.render(<Editor />, document.getElementById("root"));

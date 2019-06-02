@@ -28,6 +28,11 @@
         "webpack-cli": "^3.1.2"
     },
     "dependencies": {
-        "draft-js": "^0.10.5"
+        "@fortawesome/fontawesome-svg-core": "^1.2.18",
+        "@fortawesome/free-solid-svg-icons": "^5.8.2",
+        "@fortawesome/react-fontawesome": "^0.1.4",
+        "draft-js": "^0.10.5",
+        "draft-js-custom-styles": "^2.1.1",
+        "styled-components": "^4.2.1"
     }
 }
